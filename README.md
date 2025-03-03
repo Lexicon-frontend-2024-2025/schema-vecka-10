@@ -3,9 +3,22 @@
 
 ###### React, vecka 4 av 4
 
-## Mål för veckan
-1. Öva på och förstå de koncept vi gått igenom under tidigare react-veckor (server/client-components, hooks som useContext och useState, dynamic routes, metadata, props, params, searchparams, children, error handling)
-2. Kunna göra en deployment av er app till en server
+## Saker vi jobbat med som ni behöver förstå och kunna
+1. Skapa en nextjs app 
+2. Skapa olika sidor/routes
+3. Göra navigation med Link till de olika sidorna
+4. Lägg till statisk metadata
+5. Hämta data med fetch från API i page (utan use client, useEffect och useState)
+6. Visa datan på sidan med hjälp av tsx och ev map
+7. Gör en eller flera komponenter med props som tar emot datan och returnerar t ex ett kort eller dylikt med det ni vill visa (gärna med Image från nextjs)
+8. Använda css modules eller tailwind för att göra komponenten lite snygg
+9. Göra dynamisk route (med t ex id) och sen använda params för att använda detta id
+10. Hämta ny data från api med endpoint för ett specifikt id t ex och visa den på den nya sidan
+11. Skapa metadata med generateMetaData()
+12. Hantera fel och göra felmeddelanden för både användare och för utvecklaren
+13. Använda searchParams utan useSearchParams/use client (alltså i page t ex)
+14. Skapa interaktivitet med knappar och useClient (ex för att lägga till saker i en kundvagn, paginering, sortering osv)
+15. Använda hooks som useState, useSearchParams, useRouter, usePathname, useContext, (ev useReducer och useEffect men inget måste)
 
 ## Material
 #### E-Learning:
