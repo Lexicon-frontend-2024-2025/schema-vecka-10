@@ -22,6 +22,7 @@
 
 ## Material
 #### E-Learning:
+Extra - innehåller mycket av målen ovan: [ByteGrad - NextJS Tutorial - All 12 Concepts You Need to Know](https://www.youtube.com/watch?v=vwSlYG7hFk0) (Sista delarna 8-11 om cache, middleware osv är överkurs men kan vara intressanta för de som önskar)
 #### Utvalda för denna veckan:
 Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) inkl Rendering and Data Fetching, Dynamic Routing och Deploying.
 
